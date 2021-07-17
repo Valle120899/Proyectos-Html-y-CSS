@@ -1,0 +1,57 @@
+*{
+    background-color: rgb(243, 239, 231);
+}
+
+
+header{
+    text-align: center;
+    font-family:'Pacifico', cursive;
+    font-size: 25px;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-around;
+    margin: 0 20px;
+    padding: 0 10px;
+    border-top: 0.5px solid green;
+    border-bottom: 0.5px solid green
+}
+
+
+.bold{
+    font-weight: bold;
+    font-family: 'Dosis' , sans-serif;
+    padding: 0 20px;
+}
+
+.TimeLine{
+    text-align: center;
+}
+
+.nutshell{
+    text-align: center;
+}
+
+.First{
+    margin-bottom: 10px;
+}
+
+.footer{
+    margin: 20px 0;
+    text-align: center;
+    border: solid gray;
+    box-shadow: 5px 10px greenyellow ;
+}
+
+.footer h3{
+    font-family:'Pacifico', cursive;
+}
+.footer p{
+    font-family: 'Dosis' , sans-serif;
+}
+
+a{
+    text-decoration: none;
+    color: blue;
+}
